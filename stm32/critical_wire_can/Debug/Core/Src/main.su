@@ -1,0 +1,9 @@
+../Core/Src/main.c:85:5:main	16	static
+../Core/Src/main.c:166:6:SystemClock_Config	72	static
+../Core/Src/main.c:203:13:MX_CAN_Init	8	static
+../Core/Src/main.c:240:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:287:26:CAN_SendStatus	56	static
+../Core/Src/main.c:308:13:CAN_ConfigFilter	56	static
+../Core/Src/main.c:344:6:HAL_CAN_RxFifo0MsgPendingCallback	56	static
+../Core/Src/main.c:396:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:410:6:Error_Handler	4	static,ignoring_inline_asm
